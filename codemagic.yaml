@@ -30,7 +30,7 @@ workflows:
     publishing:
       email:
         recipients:
-          - sbis1999@gmail.com
+          - manimv1268@gmail.com
   debug-workflow:
     name: Native Android
     max_build_duration: 60
@@ -62,7 +62,7 @@ workflows:
     publishing:
       email:
         recipients:
-          - sbis1999@gmail.com
+          - manimv1268@gmail.com
   release-workflow:
     name: Native Android
     max_build_duration: 60
@@ -97,4 +97,4 @@ workflows:
     publishing:
       email:
         recipients:
-          - sbis1999@gmail.com
+          - manimv1268@gmail.com
