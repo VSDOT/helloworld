@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "TasksSecond"
+rootProject.name='Codemagic Android Example'
